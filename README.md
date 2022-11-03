@@ -9,7 +9,7 @@
     2021.3.9f1
 ## SteamVR Version
     1.24.6
-## used instrument
+## Used instrument
     Oculus Quest 2
 
 ## How to Play

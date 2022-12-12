@@ -3,7 +3,7 @@
 ## 2022 2학기 게임 프로그래밍 (COSE434)
 
 ## Demonstration Video(Youtube)
-   [Youtube Link](https://www.youtube.com/watch?v=VufWYAiRtbw)
+   [Youtube Link](https://www.youtube.com/watch?v=VufWYAiRtbw, "유튜브 시연 영상")
 
 ## Unity Version
     2021.3.9f1
